@@ -110,7 +110,7 @@ while True:
         cargar()
     elif op==6:
         print("===ESTADISTICAS===")
-        prom(xx)
+        prom()
         may()
         promedio=prom()
         mayor=may()
